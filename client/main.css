@@ -1,0 +1,47 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.app {
+	margin: 0 auto;
+	max-width: 1024px;
+}
+
+table {
+	width: 100%;
+	border-spacing: 0;
+}
+
+tr {
+	height: 64px;
+}
+
+th, td {
+	text-align: left;
+	border-bottom: 1px solid #e1e5ea;
+}
+
+.td-name {
+	font-weight: bold;
+}
+
+.td-name img {
+	width: 32px;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.green {
+	color: #009e73;
+}
+
+.red {
+	color: #d94040;
+}
+
+.loader {
+	width: 64px;
+	margin: 64px auto;
+    display: block;
+}
